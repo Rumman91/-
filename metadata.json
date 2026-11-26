@@ -1,0 +1,6 @@
+{
+  "name": "টালি খাতা",
+  "description": "দোকানের ব্যবসার জন্য বাংলায় টালি খাতা অ্যাপ — কাস্টমার, বাকি-জমা হিসাব, অটোমেটিক ডেটসহ ট্রানজেকশন হিস্ট্রি, JSON ব্যাকআপ ও হোয়াটসঅ্যাপ রসিদ।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

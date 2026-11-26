@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">টালি খাতা</string>
+    <string name="default_shop_name">আমার দোকান</string>
+    <string name="nav_khata">খাতা</string>
+    <string name="nav_history">হিস্ট্রি</string>
+    <string name="nav_backup">ব্যাকআপ</string>
+    <string name="add_customer">নতুন কাস্টমার</string>
+    <string name="share_whatsapp">হোয়াটসঅ্যাপে পাঠান</string>
+    <string name="share_shop_summary">মোট হিসাব পাঠান</string>
+    <string name="share_customer_receipt">বকেয়া রসিদ পাঠান</string>
+    <string name="export_json_backup">JSON ব্যাকআপ ডাউনলোড</string>
+    <string name="restore_json_backup">JSON ব্যাকআপ রিস্টোর</string>
+    <string name="search_customers_hint">নাম বা মোবাইল নম্বর দিয়ে খুঁজুন...</string>
+    <string name="baki_label">বাকি</string>
+    <string name="joma_label">জমা</string>
+</resources>
